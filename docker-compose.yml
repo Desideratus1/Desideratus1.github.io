@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  web:
+    image: jekyll/jekyll:4.0
+    command: 'jekyll serve --watch --force_polling --verbose'
+    volumes:
+      - "./:/srv/jekyll"
+    ports:
+      - 4000:4000

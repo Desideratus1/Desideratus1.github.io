@@ -1,0 +1,31 @@
+---
+layout: post
+title: Sidesteps
+adventure_set: Sidesteps
+adventure_number: 6
+post_number: 1
+---
+
+**On Strekka’s suggestion: Warning. Contains gore.**
+
+No, not literal side steps. In the interest of my sanity I won't provide much background to this one. Suffice to say that some very powerful criminal enterprises had a person of high interest kept in a cave in the Shiverpeaks, which Illy and I - along with an asshole named Lurk - assaulted.
+
+A Svanir camp was posted outside of the cave entrance - we saw five of them in total. Three sitting around a campfire, two standing at the mouth of the cave. Myself, Illy, and the asshole were standing what I surmised to be about a fourth of a mile away from the campsite, on top of a small cliff face covered in snow. We'd approached in such a manner that we were not spotted, so we retreated into a sort of canyon to make our plan for assaulting it.
+
+What we came up with was rather simple, but good enough on short notice. Illy would burn some bushes and shrubs within the canyon. The idea behind it being that smoke is very unusual in a frozen wasteland filled with nothing but meat-headed headmeats and their prized pet dolyaks, and the scouts sent to investigate could be quickly and quietly dispatched such that we could approach the camp with more favorable odds.
+
+Sidenote, when the Coalition headed to the Maguuma Jungle to found our base of operations and fight Mordremoth, we had a dolyak pack animal carrying supplies with us. I named him "Password, all lower case" because it was funny and no one could stop me. Unfortunately Password, all lower case got killed in a courtier ambush so someone built a statue of him. I liked that. The statue was nice.
+
+I shuffled behind some rocks, Illy lit the bushes, and then scaled up a side of the canyon to wait. Within a few minutes, two Svanir came to investigate. Whispering through our comm units I picked the scout that didn't have a helmet on, given that my blade was far too small to deal with anything a Norn could be wearing. Oddly enough, we smelled them before they arrived, and that smell was of rotting flesh. I quietly assumed that these were effectively just necromancer's minions, but I never found a concrete answer to whether or not this assumption is correct.
+
+Regardless, Illy jumped off of the cliff and drove her greatsword into the neck of the helmeted Norn. It went clean through, from what I saw. I had intended to leap out and strike myself, using that momentary panic and confusion as an easy way to secure a clean kill. Unfortunately there was no panic, and there was no confusion. As soon as Illy's blade touched the helmeted Norn, the other turned and blasted her with a cold wind. Then I struck. Given that Norn are damn tall and hamstringing someone isn't a good way to keep someone quiet, I used elementalist powers to get me there. A quick crack of thunder - Which may have alerted the party otherwise but it could have just passed off as thunder in the distance - and I teleported myself just to the side, and above his head. Using this teleportation, I also provided myself a measure of momentum such that I was spinning in the air to give myself enough force to drive my sword like a dagger through the top of his skull.
+
+This worked perfectly. The sword went to the hilt, and the walking corpse was reduced to a stunned, garbling mess. His blood was some brownish green rotting mass, and it quickly started to freeze over which froze the sword in place. Thankfully the metal prosthetics have a damn good grip so I ended up just hanging in front of his face. He wasn't outright killed though, so I finished obliterating his brains with a quick jab and clash of lightning to the weakened skull which ended the affair. By that point, Illy's quarry had found a brief moment to scream a wild, horrid yell that most certainly alerted the camp as to our presence. He was decapitated soon after, and I considered the matter handled so I sprinted to the cliff to check the camp, and confirmed that they were indeed alerted. The three remaining Svanir retreated into the cave.
+
+The camp was entirely abandoned, and we found ourselves at the cave without incident. It was quite a bit warmer than I had anticipated. Sweltering, even. I set up on a small rise overlooking the entrance with my rifle, and Illy entered the cave. She was then consumed by wyvern's fire. Which one, explained the heat, and two was pretty fucking weird to be honest. I had no idea as to why there was so much heat coming from the cave and frankly a wyvern did not even cross my mind until Illy - who had teleported out at the last moment - relayed "Fire. Fire and a wyvern". She then turned to converse with the asshole, who had disappeared long before the trap in the canyon was laid. The conversation tailed on for a good long while so I decided to stop listening and pull out a muffin.
+
+Eventually they walked in, and the wyvern didn't blast them apart for whatever reason. I think the asshole told me to follow, but I don't give a shit about what he says so I didn't listen. It was only after they were far into the cave that I bothered to follow them in. I briefly considered that I could probably use my control over earth to claw my way along the ceiling, which would have been pretty fun but I decided against it and joined Illy deeper inside. The Wyvern ended up being real, though undead just like the Svanir. If I recall correctly most of its rib cage was visible and the flesh around it more or less gone which clued me into that fact. The three Svanir were also standing nearby. The asshole, acting like he was the Alchemy's gift to us poor filthy beggars, attacked them so we could slip away and find the quarry.
+
+So we found the quarry. He stared at Illy a bit, she touched his head and then he fell asleep. Then we left. You may consider that this part of the passage is short and sounds like it was written with irritation. That's because it is, and it is. We walked in, the asshole leapt at some dead things, Illy touched the guy's head and then he fell asleep. Illy then carried him out and I in no way helped the asshole whatsoever. As of writing this I'm not even sure if he's alive.
+
+I hate both the quarry and the asshole.
