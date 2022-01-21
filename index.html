@@ -3,7 +3,7 @@ layout: default
 title: Archive
 ---
 
-Here lies a list of Fitzen's journal entries, grouped into cohesive stories. You may miss context from previous jobs, so if you prefer a chronological order, check on the top right. For your benefit, stories are listed starting from the bottom, their place chosen by the chronological order of the last entry.
+Here lies a list of Fitzen's journal entries, grouped into cohesive stories. You may miss context from previous jobs, so if you prefer a chronological order, check on the top right. For your benefit, stories are groupped into sets in descending order, starting with the story set that has the most recent entry. Individual entries are listed with the earliest entry at the top and then descending to the latest.
 
 {% assign adventureSets = site.posts | group_by: "adventure_set" %}
 {% for adventureSet in adventureSets %}

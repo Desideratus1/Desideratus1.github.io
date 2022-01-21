@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Portal and the Tower
-adventure_set: TBA
+adventure_set: TBD
 adventure_number: 8
 post_number: 1
 ---
