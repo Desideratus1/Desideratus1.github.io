@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Warden and The Jailer
-adventure_set: TBD
+adventure_set: The Tarot
 adventure_number: 8
 post_number: 2
 ---
