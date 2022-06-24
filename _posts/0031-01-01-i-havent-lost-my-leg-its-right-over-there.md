@@ -1,0 +1,40 @@
+---
+layout: post
+title: I Haven't Lost my Leg, It's Right Over There
+adventure_set: Wither
+adventure_number: 9
+post_number: 1
+---
+
+Green Company is a bunch of Sylvari Wardens that are pretty good at what they do. We fought with them several years back against a Nightmare Court, and then against Verve in the Pale Mordrem campaigns not all that long after.
+
+They sent us a call for help about a new Nightmare Court that had popped up somewhere in Brisban that had some especially nefarious shit going on. Mostly Necromancy related things. Clearing villages, taking the bodies, converting or killing the living, etc. Apparently they were managing to do this to Sylvari too, which I didn't think was possible given the inability for them to be Risen. But apparently that's a thing. This Court - The Court of Wither - had been rampaging its way through Brisban long enough for the Green Company to become involved, and realizing they were outmatched they called on us for some help.
+
+The Coalition and Green Company all gathered in one of the last few standing villages in the area (I forget the name), where we argued with the commander of the local militia and the Warden-Captain in command of the village's defense over how to defend the town.
+
+The Warden-Captain was a fuck. I hated his dumb ass the moment decided to not evacuate the town even though the civilians would be in the way come the fight and there was a safe Asura haven to the southwest that they could be sent to. He provided some reason or another for as to why this was unacceptable but I can't remember what it was so I don't care. Point is fuck this guy, we now had to defend a town full of civilians against an as of yet undefeated enemy[^fn-militia].
+
+I spent my time trying to make the entrances into the town narrow and hard to traverse. This ended up being a more or less useless endeavor because halfway through preparations our scouts and magic whoevers determined that the Court of Wither's main thrust would come from "underground". Which ended up being wrong in the right way. The point was that this place was fucked. It had no really good defensive ground, was vulnerable from assault from below, and we didn't have enough bodies to man all of the walls[^fn-defense] all of the time. At first my opinion was that even though the terrain wasn't that great we could manipulate it enough to at least have a fighting chance, but once I learned that they could and would come from underground I considered the town a death trap. The Wardens, Green Company, and the Coalition should forcibly evacuate every last civilian and abandon the town entirely to the enemy.
+
+But fuck me I guess because we didn't. Instead I just sat around wasting my damn time trying to move dirt around and growing bitter at the dumb fucking civilians that were going to get me killed because of some misguided "but this is my home" bullshit.
+
+Anyway yea the attack came and shit went south about as fast as I thought it would. However, as stated before the assumption that they would come from underground was only half right. Instead of using wurms and such, the Court just straight up walked out of plants. Well when I say plants I mean that the houses and other large buildings that the Sylvari grow got rotted very quickly and out came some very big and very tough warrior type things that would just not go down.
+
+People started dying pretty quick after that. Not that I was involved in that fuckcluster as I was on the southern approach to the town watching a massive horde of various dead things approaching. I made the decision that fighting a horde of undead was pointless. Even a mountain of pure iron will eventually be withered away by the rain. Carrying from that analogy, the only viable option was to find the source of the rain. So I scanned the field, and spied one that looked different than most.
+
+It wasn't really hard to find the corpse that appeared to move with more finesse than the many other corpses milling about like the wait line at the bakery. What followed was essentially a long game of cat and mouse. The wardens had no chance and predictably they fell back, and back, and back into the city center where things didn't get any better. I decided that fighting here was pointless as we were all fucked, so I went for something out of the box and tried to enter through the portals opening up in the dead plant walls everywhere. Course that didn't fucking work, because even though stuff can come out nothing can go back in without getting destroyed. I saw on the other side that shit was dark and depressing to absolutely no surprise but there was no useful information to glean. 
+
+After that I just walked back over to the southern approach where the Wardens were getting curb stomped. I started out just spouting fire at all of the undead, but when I had the opportunity[^fn-attack] I came down on the previously mentioned corpse-that-seemed-in-charge like a hammer. The corpse did have an interesting quirk in that it seemed like the corpse was a puppet for a soul that was stapled to it or something. The spirit could act independently so I was essentially fighting two people inhabiting the same space. Therein I ran into a problem where I can't really kill tough wooden things but eventually I managed to superheat some internal fluids such that it popped her and the spirit like a tree getting struck by lightning.
+
+Everything after that was kind of a blur. I think the horde pulled back and then some really big motherfucker with huge ass swords[^fn-guy] stepped up and demanded everyone's surrender but that was fucking stupid so we said no and then there was more fighting. Apparently this asshole could apparate even more swords or some shit. I was of the opinion of "fuck that" and kept my distance but this piece of shit threw one of his swords about as fast as one of my bullets flew from a barrel and it obliterated my left hand, rent open my left arm, and broke my rifle. Also Sulis got nailed by one of the swords and died. Don't remember when that happened. Anyway eventually we wore him down enough I guess where he just threw a fuckhuge amount of swords everywhere and that caused me to lose my magic. Then he came up to me and cut my leg off. At this point I don't really remember anything but from what I've been told it was really super awful for everyone involved.
+
+Somehow this guy managed to get himself killed though. My running theory is that he actually had a massive heart attack and that's what killed him because I have no explanation for why we're not dead. He was basically two Norn put together with an infinite supply of swords that apparently ate magic. Just the anti-magic stuff made half of the Coalition worthless in combat and everyone that isn't completely dependent on spells would never stack up to something like that.
+
+Whatever. He's dead and it doesn't matter. I being on one leg am combat ineffective and I don't see myself joining the fight again any time soon. Current predictions from myself are that the Coalition and Wardens will choose another bad fight and eek out another pyrrhic victory against the Court worthless village that has absolutely no strategic value because they are obsessed with defending every bit of worthless, indefensible terrain that some stupid dirt farmer claims as theirs.
+
+
+
+[^fn-defense]: "Walls" being "They had some plants" and absolutely nothing in the way of actual walls.
+[^fn-militia]: The militia commander also spouted the "Do you just want us to abandon our homes and not fight" stuff which was infuriatingly stupid and made me want to leave the town to its now well deserved fate.
+[^fn-attack]: She tried to attack me and that pissed me off.
+[^fn-guy]: I think his name was "Courage" or something. He kept droning on and on about shit I didn't care about. Normally I'd at least half listen to this to maybe get some context but he was doing a really good job at trying to kill us at the same time so I was pretty preoccupied.
