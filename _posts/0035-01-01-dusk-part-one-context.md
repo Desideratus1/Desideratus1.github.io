@@ -15,7 +15,7 @@ Following the raiding of Titanshadow's position in the mountains in the present 
 
 Quick note on that end, when we first were crossing to the Empress's realm[^fn-realm] to properly negotiate we had to do so by crossing a big damaged magic bridge going from the workshop to the center of the lake where that big ass gate thing is. We got attacked by a spaghetti fox. Here's an artist's rendition.
 
-![The Jailer](/assets/foxsnake.png)
+![Spaghetti fox](/assets/foxsnake.png)
 (credit to [@wheatskers](https://twitter.com/wheatskers) and [@GrimRiddles](https://twitter.com/grimriddles))
 
 We cut one of its legs and its tail off with a portal closing on it as some crazy shit was happening. So that was fun.
