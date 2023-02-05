@@ -1,0 +1,37 @@
+---
+layout: post
+title: Dusk Part 1, Context
+adventure_set: The Tarot
+adventure_number: 8
+post_number: 8
+---
+
+
+Alright, so this section will contain some context as to what is happening next. This is for those of you who have really big brains and way too much time on your hands. If you're just interested in hearing about me shooting things or your brain is just small you can skip to the next section.
+
+Lusine, of "It's Not Going Great" fame was possessed by a Jotun spirit named Astris a long time ago investigating the same realm that lead to her getting possessed more recently. I didn't make mention of it then because I wasn't here when it happened and there wasn't much to write about it, but I made friends with said spirit while tending to Lusine and Astris being a skilled seamstress, crafted and gave me a blue handkerchief, though it's unfinished. She was relatively normal, though her taking over Lusine's body was pretty disconcerting at the time. Eventually Astris's presence faded and Lusine was back to normal within a couple weeks.
+
+Following the raiding of Titanshadow's position in the mountains in the present day. Calypso got together and discussed our next move which ended up being to try and contact the Empress directly and maybe negotiate something. Hoping for an alliance, but expecting a "Don't try to kill me and I won't kill you" sort of understanding. We did this by making a doll and chucking it into that weird ass fog that the Empress first possessed Lusine in. I'm sure that's a gross oversimplification of the process of creating an object that can interact with the world and can allow a spirit to inhabit it but I'm not here to spit out mathematics so you're just going to take my word for it. The blue handkerchief was instrumental in showing the Empress that we weren't terrible awful no good monsters, which was absolutely not going to happen without my help. Apparently the Empress recognized the handiwork and agreed after some talking to allow us to enter her realm and speak with her dierctly.
+
+Quick note on that end, when we first were crossing to the Empress's realm[^fn-realm] to properly negotiate we had to do so by crossing a big damaged magic bridge going from the workshop to the center of the lake where that big ass gate thing is. We got attacked by a spaghetti fox. Here's an artist's rendition.
+
+![The Jailer](/assets/foxsnake.png)
+(credit to [@wheatskers](https://twitter.com/wheatskers) and [@GrimRiddles](https://twitter.com/grimriddles))
+
+We cut one of its legs and its tail off with a portal closing on it as some crazy shit was happening. So that was fun.
+
+Then we got into the Moon Realm and it was all Moon stuff and night time and dark blues and stuff like that. We talked to the Empress who was actually kind of reasonable, figured out a plan that involved killing the Sun card which was the source of probably the majority of the magic that Titanshadow was making use of, and I wandered around the realm learning all the cool things I could. Which wasn't much if I'm honest, most of this consisting of "Dhergos was an asshole and that's where a few cards are". I did find out that the queen of the Jotun kingdom that Dhergos was part of has a tomb in the Moon's realm[^fn-tomb], which was interesting but again not particularly useful. I also got back into contact with Astris and learned that she is bound to the bottom of the blood lake as a twisted monstrosity, but her soul is still intact so that's good at least. There's more trapped people down there too, so I'll have to figure some way to get them all out if that's possible. Looking increasingly unlikely to be honest, but we'll see what happens.
+
+Anyway the plan was to kill the Sun. The Sun is the card that essentially gives the Emperor card its power and Titanshadow having control over these things is a super huge problem that needs to be sorted out. The Sun itself lives on a platform inside the actual floating star in this place and the only way to get onto that platform is to find what is essentially a transportation stone inside the Emperor's castle that will take us onto the platform. Simple in theory, kind of a mess in practice. You see, Titanshadow is what we in the business call Fucking Stupid. You would think the Sun being the source of his power would be something heavily protected, but Titanshadow just had absolutely nothing there except for another card: Strength[^fn-strength]. A near disastrous scouting mission in which two of our members were rather badly wounded by Strength because they 
+
+**THOUGHT IT WAS A HARMLESS GOD DAMN BABY INSTEAD OF THE VICIOUS FUCKING MONSTER THAT IT IS.**
+
+The blood pressure spike the end of this scouting mission threatened to cause an aneurysm that would eject part of my skull into the atmosphere. I also successfully wounded Strength by shooting it in the stomach with a bloodstone bullet. Everyone was upset when they learned about this probably thinking it cruel or something and if you're one of those people and you're reading this I personally invite you to bite my ass.
+
+What the fuck ever. We learned where the stone is after getting chased all around the twisting maze that is the Emperor's castle and got out without any deaths which I guess means the scouting mission was a success. The plan then changed a bit given what we found. First and foremost, given that Titanshadow has absolutely no guards on the place barring Strength all we really need to do is bypass Strength itself, transport using that stone, and then slap the Sun card around some. The first and biggest problem is that we have absolutely no idea what the enviroment inside the Sun is[^fn-sun], nor do we know what capabilities the Sun has and we also don't know what will happen to Strength once we attack the Sun. This massive list of unknowns led us to change the plan of "Walk in and kill the Sun" to "Walk in, then split up and half of you distract Strength while the others kill the Sun". Yea okay. Good luck with that future me, I'm taking a nap.
+
+
+[^fn-realm]: Even more context to that; Titanshadow holds the Emperor card which controls the Sun card which controls the Sun Realm which has a number of cards attached to it. Same for the Empress card (held by the Empress I guess?) which controls the Moon card which... You get the idea. I can't provide an exact definition of what "Realm" means. There's a number of cards that are just kind of there too, like the Tower card was a card independent of both the Moon and Sun. As another aside to that, the relationship between the Emperor and the Sun, and the Empress and the Moon is strange. They all seem to have some limited amount of free will, but to what degree the celestial object card controls the monarch card is very unclear.
+[^fn-tomb]: She died on Tyria and Dhergos got her and brought her back and she was horrified and she killed herself again. This whole Tarot realm thing has just been learning about one catastrophe after another. At one point you kind of feel bad about Dhergos until you remember he's a terrible person.
+[^fn-strength]: A creature made of fire and armored magic scales that are really hard to break. The likeness of a rat slash pangolin slash four legged something or other, whose sized when docile was about my size, and when agitated got as big as a grizzly bear. Nothing I haven't dealt with before but certainly also nothing to fuck around with.
+[^fn-sun]: Probably really really really really really really hot and a platform.
