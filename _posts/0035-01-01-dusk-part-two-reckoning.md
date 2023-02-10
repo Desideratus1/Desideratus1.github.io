@@ -26,7 +26,7 @@ Typically you would imagine death would be instant at this point, but that thing
 Thus ends this section. Titanshadow's font of magic is gone, the Sun is dead, Strength is ours, and the war continues with momentum on our side. I consider that a good day's work.
 
 
-[^fn-realm]: Compared to other things and people I've seen, anyway. Generally violent and at times unreasonable? Sure. A mess of souls and blood and bones that wants to eat everything it touches? No.
+[^fn-normal]: Compared to other things and people I've seen, anyway. Generally violent and at times unreasonable? Sure. A mess of souls and blood and bones that wants to eat everything it touches? No.
 [^fn-harpp]: Asura druid and also expert Marksman.
 [^fn-judas]: Human. Elementalist I think?
 [^fn-dhergos]: Done by Dhergos some ten thousand or so years ago.
