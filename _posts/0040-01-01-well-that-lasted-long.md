@@ -6,7 +6,7 @@ adventure_number: 9
 post_number: 1
 ---
 
-Yea well that didn't last long. I don't remember how long ago I wrote down the last entry in that Tarot stuff but it couldn't have been that long and we're right back here again. I would ask if you missed me but we should all understand by now I don't care and this is just for me. I've been considering writing this down for a while now and finally decided to one I had some time on my hands. It's not a good one, so if you like happy endings maybe get a picture book instead.
+Yea well that didn't last long. I don't remember how long ago I wrote down the last entry in that Tarot stuff but it couldn't have been that long and we're right back here again. I would ask if you missed me but we should all understand by now I don't care and this is just for me. I've been considering writing this down for a while now and finally decided to once I had some time on my hands. It's not a good one, so if you like happy endings maybe get a picture book instead.
 
 Alright, so a while ago I learned that apparently the centaur banded together again or something and then took a big nasty stick to the top of Claypool's head and put it under siege. While typically I don't try to involve myself in these kinds of affairs because most of my time is spent on potentially world-ending problems, I didn't really have anything that was taking up my time so I decided to go see the local fauna and what they were up to. As you can probably guess I was very unimpressed by my compatriots and their fantastical delusions that they would ensure peace with the centaur by just asking them to "please don't". This is not how it works and I'm going to lay this out here.
 
