@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Record of Past Matters
-adventure_set: From Before
+adventure_set: Miscellaneous
 adventure_number: 2
 post_number: 1
 ---
