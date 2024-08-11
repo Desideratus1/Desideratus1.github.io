@@ -41,10 +41,10 @@ I'll lay each of these out with the task I was given and what I thought about wh
 *Create plasma by using molten heat with lightning. (DO NOT PRACTICE IN PLAIN CLOTHES)*
 - Really fucking dangerous. Normally this would be a great thing but it's also dangerous to the user to an unacceptable degree. To be kept in my "Crazy Bullshit" box for the time being when I need to create something absurdly deadly to everyone including me. I imagine if you did this at a distance in an enclosed space you could do a hell of a lot of damage to everything it touches.
 
--*Create mud slide. Use mud slide to traverse battle.*
+*Create mud slide. Use mud slide to traverse battle.*
 - Fun, but teleporting is just better. However, if you'll recall in one of my earlier logs there was a situation where I trapped some centaur in some mud, but it took a hell of a lot of time and water to do. With the advent of this capability I am now in a position to control limited parts of the battlefield, which typically would require much more time and energy.
 
--*Create a meteor out of molten rock. Conjure rock in air and imbue it with fire to release as a projectile.*
+*Create a meteor out of molten rock. Conjure rock in air and imbue it with fire to release as a projectile.*
 - Classic fireball with more blunt impact force. Interesting, but I don't see a huge advantage over pure rock or pure fire. Perhaps using air magic to cause a rock to explode as if it were a grenade would do better?
 
 ### Hard
@@ -55,4 +55,4 @@ Study effects on gravity above.
 - [RECORDS EXPUNGED]
 
 Expand on range and power of attacks. You can make a tornado, but can you sit in the eye of it and let it carry you?
-- In progress. The flexibility which being an Elementalist gives is already second to none, now it goes even further. Ranger and power naturally are the realm of guns and bullets, but once more we're here for the 10%. While I'm not overly enthused about the possibility of throwing fireballs even further with the aid of air, there is always something to be said about keeping a distance between you and your opponent.
+- In progress. The flexibility which being an Elementalist gives is already second to none, now it goes even further. Range and power naturally are the realm of guns and bullets, but once more we're here for the 10%. While I'm not overly enthused about the possibility of throwing fireballs even further with the aid of air, there is always something to be said about keeping a distance between you and your opponent.
