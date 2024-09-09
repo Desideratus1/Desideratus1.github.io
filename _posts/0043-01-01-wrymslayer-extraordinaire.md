@@ -2,8 +2,8 @@
 layout: post
 title: Wrymslayer Extraordinaire
 adventure_set: Kalkhas
-adventure_number: 2
-post_number: 1
+adventure_number: 10
+post_number: 2
 ---
 
 So the Kalkhas stuff didn't quite go anywhere on my account for a while. No doubt Calypso was busy digging into how to fight Kalkhas the entire time but I'm going to make the assumption that it didn't really go anywhere. I was busy with other things, namely becoming embroiled in another one of Hisa's problems, this one being the revival of a proper son of a bitch by the name of Reyes and his plans to... Do something. Look, I'll be honest. Reyes had some plans, I never really bothered to learn much about his plans[^fn-plans] because I was a bit too busy trying to hunt him down and kill him. To summarize the course of affairs, Reyes is dead and now there's the Literal Concept Of Death[^fn-death] coming to kill Hisa and a bunch of other people or something like that. For lack of a better name said Literal Concept is being referred to as Extinction which sounds suitably ominous and dispassionate. Anyway, the way this intersects with Kalkhas is that while we were dealing with Extinction (Who at the time was locked up in a Mists realm), I thought of a brilliant idea. Firstly, a couple useful notes. One. Kalkhas is effectively an infovore, though rather than a "traditional" infovore that eats information, Kalkhas eats memories. At the time I wasn't particularly sure how to fight something like that, and in the same vein I wasn't really sure how to fight a walking concept so the idea came to me to pit the two against each other.
