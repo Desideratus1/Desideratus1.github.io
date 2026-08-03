@@ -23,13 +23,13 @@ I'll lay each of these out with the task I was given and what I thought about wh
 - This one wasn't too hard, just combine the usual throw rock with some fire. Making it molten was more of a challenge and I question the tactical application but it was a good test to see how I could handle completely marrying two elements together. And like the mud puddle, battlefield control with this is easier to accomplish, as no one wants to step on molten rock.
 
 *Earth/Air: Charge a projectile (or rock gauntlet)*
-- This is the one that I think has the most useful offensive application. Not what he has here - though I did accomplish this and it was nice. But rather than charging a rock gauntlet I would use air magic to swing the rock gauntlet really, really hard. Or at that point not even an rock gauntlet, just have a rock spike in front of your knuckles. Merely aim your strike at points of weakness in the armor, such as rivets or better yet unarmored points on the target, and send the rock spike through with the aid of air magic. Most armor would bend or break under such pressure, and flesh and blood would clearly fare even worse.
+- This is the one that I think has the most useful offensive application. Not what he has here - though I did accomplish this and it was nice. But rather than charging a rock gauntlet I would use air magic to swing the rock gauntlet really, really hard. Or at that point not even a rock gauntlet, just have a rock spike in front of your knuckles. Merely aim your strike at points of weakness in the armor, such as rivets or better yet unarmored points on the target, and send the rock spike through with the aid of air magic. Most armor would bend or break under such pressure, and flesh and blood would clearly fare even worse.
 
 *Fire/Water: Boil water. Cook egg. Easy mode: steam.*
 - I lost like half of my eggs doing this. Sperra got pissed at me and made me go buy more. 0/10.
 
 *Fire/Air: Create a small, contained, fire twister. Introduce lightning strikes. Recommended reading: Intro to Plasma*
-- "Into to Plasma" is a cheap imitation of this treatise from the Archives: *Sholl's early investigations into the physics of plasma via Elementalism*. Fire twisters are cool but take a lot to get going and sustain. Lightning strikes being involved is even more draining. Good practice for both Weaving and stamina training but practical applications are niche compared to more direct methods.
+- "Intro to Plasma" is a cheap imitation of this treatise from the Archives: *Sholl's early investigations into the physics of plasma via Elementalism*. Fire twisters are cool but take a lot to get going and sustain. Lightning strikes being involved is even more draining. Good practice for both Weaving and stamina training but practical applications are niche compared to more direct methods.
 
 *Water/Air: Practice frigid winds. Create a small water spout.*
 - Water spouts are just water. Frigid winds are really cool but I need to think more about the practical applications. Freezing things like water to make a bridge is great, but can it be used to really hurt a lot of people in one go?
@@ -49,7 +49,7 @@ I'll lay each of these out with the task I was given and what I thought about wh
 
 ### Hard
 Divide focus to three elements, then four. EXPECT THIS TO BE A SHORT BURST WINDOW. Do not hold focus on each element longer than five seconds at a time, or you WILL BURN YOUR MAGIC THROUGH RESERVE. Release all at once. 
-- Absurdly frustrating to maintain. The brief moments when I am able to complete such a process opens a variety of doors, but as we're going for the 10% that is not already covered I don't see anything (As of the writing of this log) that would outdo gunpowder weaponry. More testing is required, however. If one could maintain such a position for an extended of time however, I imagine some truly impressive feats would be achievable.
+- Absurdly frustrating to maintain. The brief moments when I am able to complete such a process open a variety of doors, but as we're going for the 10% that is not already covered I don't see anything (As of the writing of this log) that would outdo gunpowder weaponry. More testing is required, however. If one could maintain such a position for an extended period of time however, I imagine some truly impressive feats would be achievable.
 
 Study effects on gravity above.
 - [RECORDS EXPUNGED]
